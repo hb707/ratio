@@ -6,8 +6,8 @@ Ratio is very useful for reponsive design.
 For more suggestions you can contact me at :
 
 - facebook : https://www.facebook.com/hosny707
-- gmail : housnibenabid@gmail.com
-- LinkedIn : https://ma.linkedin.com/in/housnibenabid
+- email : contact@hosnyben.me
+- website : www.hosnyben.me
 ==========================================================
 
 Plugin details :
